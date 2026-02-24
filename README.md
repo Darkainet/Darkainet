@@ -1,4 +1,4 @@
-‌<div align="center">
+<div align="center">
 
 # ⚡ ``DARKAINET`` ⚡
 ### 🛡️ **AI Security Researcher | Network Infrastructure Specialist**
@@ -18,7 +18,7 @@
 I am a specialized researcher focused on **LLM Red Teaming** and **Context Manipulation**. I bridge the gap between AI logic and practical cybersecurity by deconstructing safety guardrails.
 
 * 🌑 **Current Focus:** `Scenario Injection` & `AI Jailbreaking`.
-* 🚀 **Main Project:** [AI Security & Network Research](https://github.com/Darkainet/AI_Security_Research)
+* 🚀 **Main Project:** [AI Security & Network Research](https://github.com/Darkainet/AI-Security-Research)
 * 🛠️ **Tech Stack:** Linux (Debian/Kali), Java, Cloudflare Workers.
 
 ---
@@ -27,7 +27,7 @@ I am a specialized researcher focused on **LLM Red Teaming** and **Context Manip
 من محقق امنیت سایبری با تمرکز بر **تیم قرمز هوش مصنوعی (Red Teaming)** و **دستکاری کانتکست** هستم. فعالیت‌های من بر پایه شناسایی نقاط ضعف مدل‌های زبانی و اکسپلویت‌های زیرساختی شبکه است.
 
 * 🌑 **تمرکز فعلی:** `تزریق سناریو` و `جیل‌بریک کردن هوش مصنوعی`.
-* 🚀 **پروژه اصلی:** [تحقیقات امنیت هوش مصنوعی و شبکه](https://github.com/Darkainet/AI_Security_Research)
+* 🚀 **پروژه اصلی:** [تحقیقات امنیت هوش مصنوعی و شبکه](https://github.com/Darkainet/AI-Security-Research)
 * 🛠️ **تخصص فنی:** لینوکس، جاوا، ورکر کلودفلر، امنیت اندروید.
 
 ---
@@ -48,9 +48,9 @@ I am a specialized researcher focused on **LLM Red Teaming** and **Context Manip
 > [!TIP]
 > Check out my most advanced logic implementations below:
 
-* 📂 **[The Dark Side: Jailbreak Analysis](https://github.com/Darkainet/AI_Security_Research/blob/main/AI_Bypass_Research_Darkside.md)**
-* 📂 **[Smart Chat Framework Documentation](https://github.com/Darkainet/AI_Security_Research/blob/main/AI_Smart_Chat_Documentation.md)**
-* 📂 **[Stealth C2 Worker Logic](https://github.com/Darkainet/AI_Security_Research/blob/main/Cloudflare_Worker_Gateway.js)**
+* 📂 **[The Dark Side: Jailbreak Analysis](https://github.com/Darkainet/AI-Security-Research/blob/main/AI_Bypass_Research_Darkside.md)**
+* 📂 **[Smart Chat Framework Documentation](https://github.com/Darkainet/AI-Security-Research/blob/main/AI_Smart_Chat_Documentation.md)**
+* 📂 **[Stealth C2 Worker Logic](https://github.com/Darkainet/AI-Security-Research/blob/main/Cloudflare_Worker_Gateway.js)**
 
 ---
 
