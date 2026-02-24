@@ -1,4 +1,4 @@
-<div align="center">
+‌<div align="center">
 
 # ⚡ ``DARKAINET`` ⚡
 ### 🛡️ **AI Security Researcher | Network Infrastructure Specialist**
@@ -48,9 +48,9 @@ I am a specialized researcher focused on **LLM Red Teaming** and **Context Manip
 > [!TIP]
 > Check out my most advanced logic implementations below:
 
-* 📂 **[The Dark Side: Jailbreak Analysis](./AI_Bypass_Research_Darkside.md)**
-* 📂 **[Smart Chat Framework Documentation](./AI_Smart_Chat_Documentation.md)**
-* 📂 **[Stealth C2 Worker Logic](./Cloudflare_Worker_Gateway.js)**
+* 📂 **[The Dark Side: Jailbreak Analysis](https://github.com/Darkainet/AI_Security_Research/blob/main/AI_Bypass_Research_Darkside.md)**
+* 📂 **[Smart Chat Framework Documentation](https://github.com/Darkainet/AI_Security_Research/blob/main/AI_Smart_Chat_Documentation.md)**
+* 📂 **[Stealth C2 Worker Logic](https://github.com/Darkainet/AI_Security_Research/blob/main/Cloudflare_Worker_Gateway.js)**
 
 ---
 
